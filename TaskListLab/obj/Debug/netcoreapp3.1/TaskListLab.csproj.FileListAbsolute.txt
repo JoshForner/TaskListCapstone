@@ -1,0 +1,13 @@
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\bin\Debug\netcoreapp3.1\TaskListLab.exe
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\bin\Debug\netcoreapp3.1\TaskListLab.deps.json
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\bin\Debug\netcoreapp3.1\TaskListLab.runtimeconfig.json
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\bin\Debug\netcoreapp3.1\TaskListLab.runtimeconfig.dev.json
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\bin\Debug\netcoreapp3.1\TaskListLab.dll
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\bin\Debug\netcoreapp3.1\TaskListLab.pdb
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\obj\Debug\netcoreapp3.1\TaskListLab.csprojAssemblyReference.cache
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\obj\Debug\netcoreapp3.1\TaskListLab.csproj.CoreCompileInputs.cache
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\obj\Debug\netcoreapp3.1\TaskListLab.AssemblyInfoInputs.cache
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\obj\Debug\netcoreapp3.1\TaskListLab.AssemblyInfo.cs
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\obj\Debug\netcoreapp3.1\TaskListLab.dll
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\obj\Debug\netcoreapp3.1\TaskListLab.pdb
+C:\Users\forne\source\repos\CSHARP\TaskListLab\TaskListLab\obj\Debug\netcoreapp3.1\TaskListLab.genruntimeconfig.cache
